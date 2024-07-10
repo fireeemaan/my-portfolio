@@ -46,7 +46,8 @@ export default function Home() {
           ,
         </h1>
         <h1 className="text-[3.8rem] text-left mb-2">
-          I'm <span className="font-bold text-white">Firman Ardiansyah</span>
+          I&lsquo;m{" "}
+          <span className="font-bold text-white">Firman Ardiansyah</span>
         </h1>
         <p
           className={`${poppins.className} text-[1.1rem] text-left max-w-[46rem] text-white/60`}
