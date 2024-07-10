@@ -46,7 +46,7 @@ export default function Home() {
           ,
         </h1>
         <h1 className="text-[3.8rem] text-left mb-2">
-          I&lsquo;m{" "}
+          I&apos;m{" "}
           <span className="font-bold text-white">Firman Ardiansyah</span>
         </h1>
         <p

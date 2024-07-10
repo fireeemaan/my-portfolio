@@ -79,7 +79,7 @@ const Projects = () => {
             ></motion.div>
           </div>
           <h2 className="text-white/80 w-full">
-            List of Projects I&lsquo;ve created
+            List of Projects I&apos;ve created
           </h2>
         </div>
         <CardProject projects={projects} />
