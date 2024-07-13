@@ -29,13 +29,15 @@ const AboutPage = () => {
             ></motion.div>
           </div>
           <p className="text-white">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Id,
-            voluptates magnam quo quod ratione quaerat laborum! Quasi debitis
-            dolor porro? Fugiat ullam dolore dicta itaque sed commodi rem
-            laudantium voluptatibus eos culpa beatae maiores officiis delectus
-            repellat sint, sunt blanditiis quibusdam architecto exercitationem
-            repellendus. Aliquid asperiores eligendi ut assumenda alias iure
-            repellat impedit nemo?
+            I am currently a fourth-semester student majoring in Information
+            Systems at the University of Jember. As a web development
+            enthusiast, I am passionate about creating innovative and
+            user-friendly digital solutions. To further enhance my skills, I am
+            currently delving into NextJS, a powerful React framework for
+            building modern web applications. My goal is to combine my academic
+            knowledge with practical experience to become a proficient web
+            developer and contribute to the ever-evolving field of information
+            technology.
           </p>
         </div>
 

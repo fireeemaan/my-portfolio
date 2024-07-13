@@ -3,6 +3,7 @@ export interface ProjectDetails {
   description: string;
   image: string;
   github: string;
+  techStack: string[];
 }
 
 export interface Project {
